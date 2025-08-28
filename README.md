@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <b>My Tech Stack & Tools</b>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,python,perl,c,cpp,cs,html,css,bash" alt="Languages" />
 </p>
 
