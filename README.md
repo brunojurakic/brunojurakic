@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>My Tech Stack & Tools</b>
+  <b>My Languages / Frameworks and other Tools</b>
 </p>
 
 <p align="center">
