@@ -17,5 +17,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,postgres,mongodb,vscode,vercel,figma" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,postgres,mongodb,vscode,cloudflare,figma" alt="Tools & Platforms" />
 </p>
